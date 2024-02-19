@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 url = "https://en.wikipedia.org/wiki/Comma-separated_values"
 
